@@ -1,0 +1,19 @@
+// Coloque su configuración en este archivo para sobrescribir la configuración predeterminada y de usuario.
+{
+    // Controla la visibilidad del margen del glifo
+    "editor.glyphMargin": true,
+    // Ampliar la fuente del editor cuando se use la rueda del mouse mientras se presiona Ctrl
+    "editor.mouseWheelZoom": true,
+    // Controls whether the editor should render indent guides
+    "editor.renderIndentGuides": true,
+    // Controla si el editor debe dar formato automáticamente a la línea después de escribirla
+    "editor.formatOnType": true,
+    // Insert snippets when their prefix matches. Works best when 'quickSuggestions' aren't enabled.
+    "editor.tabCompletion": true,
+    // Controla si el editor debe representar los espacios en blanco
+    "editor.renderWhitespace": true,
+    // Controls whether the editor should render control characters
+    "editor.renderControlCharacters": true
+
+
+}
