@@ -161,7 +161,7 @@
 
             <h3 class="text-3xl mb-2 font-semibold leading-normal">Asesoramiento financiero</h3>
             <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-              Incorporamos a nuestra cartera de productos la gestion de activos finacieros a través
+              Incorporamos a nuestra cartera de productos la gestion de activos financieros a través
               de una de las mayores empresas a nivel internacional, National Nederlanden.
             </p>
             <p class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700">
@@ -215,6 +215,7 @@
             <div class="w-full md:w-6/12 lg:w-6/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <div class="pt-6 text-center">
+                  <img src="http://www.bariagestion.com/images/lorenzo.jpg" alt />
                   <h5 class="text-xl font-bold">Lorenzo Carmona Alonso</h5>
                   <p
                     class="mt-1 text-sm text-gray-500 uppercase font-semibold"
@@ -227,6 +228,18 @@
                     class="mt-1 text-sm text-gray-500 uppercase font-semibold"
                   >Email: lorenzo@bariagestion.com</p>
                 </div>
+              </div>
+            </div>
+            <div class="w-full md:w-6/12 lg:w-6/12 lg:mb-0 mb-12 px-4">
+              <div class="px-6">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3175.9277719157863!2d-1.872153834697396!3d37.2494211298585!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd7ad502ed3fe381%3A0xcfb40f9e04ca1497!2sBARIAGESTION%20Asesoria%2FGestoria!5e0!3m2!1ses!2ses!4v1582452612107!5m2!1ses!2ses"
+                  width="600"
+                  height="450"
+                  frameborder="0"
+                  style="border:0;"
+                  allowfullscreen
+                ></iframe>
               </div>
             </div>
           </div>
