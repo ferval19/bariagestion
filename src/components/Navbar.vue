@@ -12,9 +12,15 @@
           />
         </a>
         <a
-          class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white"
+          class="text-sm font-bold leading-relaxed inline-block mr-4 py-1 whitespace-no-wrap uppercase text-white"
           href="https://www.bariagestion.com"
-        >Bariagestión</a>
+        >
+          <img
+            class="w-40 flex inline-block"
+            src="../assets/logo_texto.png"
+            alt="Logo BariaGestion"
+          />
+        </a>
       </div>
       <div
         class="lg:flex flex-grow items-center bg-white lg:bg-transparent lg:shadow-none"
@@ -24,7 +30,7 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="#servicios"
             >
               <i class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg"></i>
               servicios
@@ -33,10 +39,19 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="#enlaces"
             >
               <i class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg"></i>
               <span class="inline-block ml-2">enlaces</span>
+            </a>
+          </li>
+          <li class="flex items-center">
+            <a
+              class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+              href="#empresa"
+            >
+              <i class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg"></i>
+              <span class="inline-block ml-2">empresa</span>
             </a>
           </li>
           <li class="flex items-center">
@@ -45,7 +60,7 @@
               type="button"
               style="transition: all 0.15s ease 0s;"
             >
-              <i class="fas fa-arrow-alt-circle-down"></i> Contacto
+              <i class="fas fa-arrow-alt-circle-down"></i> Ponte en Contacto
             </button>
           </li>
         </ul>

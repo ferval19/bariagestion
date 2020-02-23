@@ -41,7 +41,7 @@
           </svg>
         </div>
       </div>
-      <section class="pb-20 bg-gray-300 -mt-24">
+      <section id="servicios" class="pb-20 bg-gray-300 -mt-24">
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap">
             <div class="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
@@ -134,7 +134,7 @@
           </div>
         </div>
       </section>
-      <section class="relative py-20">
+      <section id="nn" class="relative py-20">
         <div
           class="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
           style="height: 80px; transform: translateZ(0px);"
@@ -197,53 +197,42 @@
           </div>
         </div>
       </section>
-      <section class="pt-20 pb-48">
+      <section id="enlaces" class="pt-12 pb-48">
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center text-center mb-24">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold">Here are our heroes</h2>
-              <p class="text-lg leading-relaxed m-4 text-gray-600">
-                According to the National Oceanic and Atmospheric
-                Administration, Ted, Scambos, NSIDClead scentist, puts the
-                potentially record maximum.
-              </p>
+              <h2 class="text-4xl font-semibold">Enlaces de interes</h2>
+              <p
+                class="text-lg leading-relaxed m-4 text-gray-600"
+              >Te proporcionamos un acceso rápido a los sitios webs mas utilizados para poder realizar tus tramites a través de internet. Recuerda que si tienes alguna duda o consulta puede ponerte en contactos con nosotros y aatenderemos tu caso de manera personalizada.</p>
             </div>
           </div>
+        </div>
+      </section>
+      <section id="encuentranos" class="pt-12 pb-48">
+        <div class="container mx-auto px-4">
           <div class="flex flex-wrap">
-            <div class="w-full md:w-6/12 lg:w-3/12 lg:mb-0 mb-12 px-4">
+            <div class="w-full md:w-6/12 lg:w-6/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <div class="pt-6 text-center">
                   <h5 class="text-xl font-bold">Lorenzo Carmona Alonso</h5>
                   <p
                     class="mt-1 text-sm text-gray-500 uppercase font-semibold"
-                  >Licenciado en Relaciones Laborales</p>
-                  <div class="mt-6">
-                    <button
-                      class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-                      type="button"
-                    >
-                      <i class="fab fa-twitter"></i>
-                    </button>
-                    <button
-                      class="bg-blue-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-                      type="button"
-                    >
-                      <i class="fab fa-facebook-f"></i>
-                    </button>
-                    <button
-                      class="bg-pink-500 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
-                      type="button"
-                    >
-                      <i class="fab fa-dribbble"></i>
-                    </button>
-                  </div>
+                  >Diplomado en Relaciones Laborales</p>
+                  <p
+                    class="mt-1 text-sm text-gray-500 uppercase font-semibold"
+                  >Graduado social Nº 784</p>
+                  <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Teléfono: 678414 477</p>
+                  <p
+                    class="mt-1 text-sm text-gray-500 uppercase font-semibold"
+                  >Email: lorenzo@bariagestion.com</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section class="pb-20 relative block bg-gray-900">
+      <section id="empresa" class="pb-20 relative block bg-red-900">
         <div
           class="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
           style="height: 80px; transform: translateZ(0px);"
@@ -257,18 +246,16 @@
             x="0"
             y="0"
           >
-            <polygon class="text-gray-900 fill-current" points="2560 0 2560 100 0 100" />
+            <polygon class="text-red-900 fill-current" points="2560 0 2560 100 0 100" />
           </svg>
         </div>
         <div class="container mx-auto px-4 lg:pt-24 lg:pb-64">
           <div class="flex flex-wrap text-center justify-center">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold text-white">Build something</h2>
-              <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-                Put the potentially record low maximum sea ice extent tihs year
-                down to low ice. According to the National Oceanic and
-                Atmospheric Administration, Ted, Scambos.
-              </p>
+              <h2 class="text-4xl font-semibold text-white">La tranquilidad de tu negocio</h2>
+              <p
+                class="text-lg leading-relaxed mt-4 mb-4 text-white"
+              >Desde BariaGestión nos encargamos de que tu negocio tenga cubiertas todas las necesidades administrativas. Nuestra profesionalidad, atención personalizada y evitar que distraigas tu atención de lo que importa, tu negocio, son nuestros pilares para ofrecerte el mejor servicio.</p>
             </div>
           </div>
           <div class="flex flex-wrap mt-12 justify-center">
@@ -278,11 +265,10 @@
               >
                 <i class="fas fa-medal text-xl"></i>
               </div>
-              <h6 class="text-xl mt-5 font-semibold text-white">Excelent Services</h6>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+              <h6 class="text-xl mt-5 font-semibold text-white">Atención personalizada</h6>
+              <p
+                class="mt-2 mb-4 text-white"
+              >Ante cualquier duda estudiaremos su caso y le ofreceremos la solucion que mas se adecúe a su problema.</p>
             </div>
             <div class="w-full lg:w-3/12 px-4 text-center">
               <div
@@ -290,11 +276,10 @@
               >
                 <i class="fas fa-poll text-xl"></i>
               </div>
-              <h5 class="text-xl mt-5 font-semibold text-white">Grow your market</h5>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+              <h5 class="text-xl mt-5 font-semibold text-white">Profesionalidad</h5>
+              <p
+                class="mt-2 mb-4 text-white"
+              >Tras varios años en el sector, ofrecemos a nuestros clientes un servicio profesional para solventar sus problemas.</p>
             </div>
             <div class="w-full lg:w-3/12 px-4 text-center">
               <div
@@ -302,16 +287,15 @@
               >
                 <i class="fas fa-lightbulb text-xl"></i>
               </div>
-              <h5 class="text-xl mt-5 font-semibold text-white">Launch time</h5>
-              <p class="mt-2 mb-4 text-gray-500">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+              <h5 class="text-xl mt-5 font-semibold text-white">Ahorra tiempo</h5>
+              <p
+                class="mt-2 mb-4 text-white"
+              >Nos encargamos de que todos tus trámites esten entregados en tiempo y forma.</p>
             </div>
           </div>
         </div>
       </section>
-      <section class="relative block py-24 lg:pt-0 bg-gray-900">
+      <section id="contacto" class="relative block py-24 lg:pt-0 bg-red-900">
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center lg:-mt-64 -mt-48">
             <div class="w-full lg:w-6/12 px-4">
