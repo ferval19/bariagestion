@@ -204,7 +204,7 @@
               <h2 class="text-4xl font-semibold">Enlaces de interes</h2>
               <p
                 class="text-lg leading-relaxed m-4 text-gray-600"
-              >Te proporcionamos un acceso rápido a los sitios webs mas utilizados para poder realizar tus tramites a través de internet. Recuerda que si tienes alguna duda o consulta puede ponerte en contactos con nosotros y aatenderemos tu caso de manera personalizada.</p>
+              >Te proporcionamos un acceso rápido a los sitios webs mas utilizados para poder realizar tus tramites a través de internet. Recuerda que si tienes alguna duda o consulta puede ponerte en contactos con nosotros y atenderemos tu caso de manera personalizada.</p>
             </div>
           </div>
         </div>
@@ -215,7 +215,12 @@
             <div class="w-full md:w-6/12 lg:w-6/12 lg:mb-0 mb-12 px-4">
               <div class="px-6">
                 <div class="pt-6 text-center">
-                  <img src="http://www.bariagestion.com/images/lorenzo.jpg" alt />
+                  <div class="flex justify-center">
+                    <img
+                      src="http://www.bariagestion.com/images/lorenzo.jpg"
+                      alt="Lorenzo Carmona Alonso"
+                    />
+                  </div>
                   <h5 class="text-xl font-bold">Lorenzo Carmona Alonso</h5>
                   <p
                     class="mt-1 text-sm text-gray-500 uppercase font-semibold"
@@ -223,9 +228,9 @@
                   <p
                     class="mt-1 text-sm text-gray-500 uppercase font-semibold"
                   >Graduado social Nº 784</p>
-                  <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">Teléfono: 678414 477</p>
+                  <p class="mt-1 text-sm text-gray-900 uppercase font-semibold">Teléfono: 678414 477</p>
                   <p
-                    class="mt-1 text-sm text-gray-500 uppercase font-semibold"
+                    class="mt-1 text-sm text-gray-900 font-semibold"
                   >Email: lorenzo@bariagestion.com</p>
                 </div>
               </div>

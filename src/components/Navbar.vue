@@ -48,12 +48,22 @@
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+              href="#encuentranos"
+            >
+              <i class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg"></i>
+              <span class="inline-block ml-2">encuentranos</span>
+            </a>
+          </li>
+          <li class="flex items-center">
+            <a
+              class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
               href="#empresa"
             >
               <i class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg"></i>
               <span class="inline-block ml-2">empresa</span>
             </a>
           </li>
+
           <li class="flex items-center">
             <button
               class="bg-white text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
