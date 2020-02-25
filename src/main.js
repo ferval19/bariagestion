@@ -8,14 +8,15 @@ new Vue({
   render: h => h(App),
 }).$mount('#app')*/
 import Vue from 'vue'
-import Landing from './views/Landing.vue'
+import Home from './views/Home.vue'
 import '@/assets/css/tailwind.css'
+
 
 
 Vue.config.productionTip = false
 
 const routes = {
-  '/landing': Landing
+  '/home': Home
 }
 
 new Vue({
@@ -24,7 +25,7 @@ new Vue({
   },
   computed: {
     ViewComponent () {
-      return routes[this.currentRoute] || Landing
+      return routes[this.currentRoute] || Home
     }
   },
   render (h) { return h(this.ViewComponent) },

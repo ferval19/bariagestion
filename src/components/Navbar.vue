@@ -11,10 +11,7 @@
             alt="Logo BariaGestion"
           />
         </a>
-        <a
-          class="text-sm font-bold leading-relaxed inline-block mr-4 py-1 whitespace-no-wrap uppercase text-white"
-          href="https://www.bariagestion.com"
-        >
+        <a class="hidden sm:inline mr-4 py-1" href="https://www.bariagestion.com">
           <img
             class="w-40 flex inline-block"
             src="../assets/logo_texto.png"
