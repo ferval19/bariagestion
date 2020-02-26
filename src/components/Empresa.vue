@@ -27,33 +27,21 @@
       </div>
       <div class="flex flex-wrap mt-12 justify-center">
         <div class="w-full lg:w-4/12 px-4 text-center">
-          <div
-            class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-          >
-            <i class="fas fa-medal text-xl"></i>
-          </div>
+          <font-awesome-icon icon="user-friends" style="color:#DDDDDD; height:3em; width: 3em;" />
           <h6 class="text-xl mt-5 font-semibold text-white">Atención personalizada</h6>
           <p
             class="mt-2 mb-4 text-white"
           >Ante cualquier duda estudiaremos su caso y le ofreceremos la solucion que mas se adecúe a su problema.</p>
         </div>
         <div class="w-full lg:w-4/12 px-4 text-center">
-          <div
-            class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-          >
-            <i class="fas fa-poll text-xl"></i>
-          </div>
+          <font-awesome-icon icon="award" style="color:#DDDDDD; height:3em; width: 3em;" />
           <h5 class="text-xl mt-5 font-semibold text-white">Profesionalidad</h5>
           <p
             class="mt-2 mb-4 text-white"
           >Tras varios años en el sector, ofrecemos a nuestros clientes un servicio profesional para solventar sus problemas.</p>
         </div>
         <div class="w-full lg:w-4/12 px-4 text-center">
-          <div
-            class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center"
-          >
-            <i class="fas fa-lightbulb text-xl"></i>
-          </div>
+          <font-awesome-icon icon="clock" style="color:#DDDDDD; height:3em; width: 3em;" />
           <h5 class="text-xl mt-5 font-semibold text-white">Ahorra tiempo</h5>
           <p
             class="mt-2 mb-4 text-white"
