@@ -24,12 +24,7 @@
             class="text-lg mt-0 mb-2 text-gray-700"
           >Desde BariaGestion te damos las herramientas necesarias para estar al día con los trámites de la administración.</h5>
           <div class="mt-6">
-            <button
-              class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-              type="button"
-            >
-              <i class="fab fa-twitter"></i>
-            </button>
+            <font-awesome-icon icon="facebook-f" style="color:#DDDDDD; height:3em; width: 3em;" />
           </div>
         </div>
         <div class="w-full lg:w-6/12 px-4">
