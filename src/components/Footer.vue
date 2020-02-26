@@ -43,14 +43,20 @@
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="#empresa"
-                  >Empresa</a>
+                    href="#enlaces"
+                  >Enlaces</a>
                 </li>
                 <li>
                   <a
                     class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
-                    href="#enlaces"
-                  >Enlaces</a>
+                    href="#encuentranos"
+                  >Encuentranos</a>
+                </li>
+                <li>
+                  <a
+                    class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
+                    href="#empresa"
+                  >Empresa</a>
                 </li>
               </ul>
             </div>
