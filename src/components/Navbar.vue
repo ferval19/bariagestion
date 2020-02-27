@@ -18,7 +18,11 @@
             alt="Logo BariaGestion"
           />
         </a>
+        <div class="lg:hidden" @click="toggleNavbar">
+          <font-awesome-icon icon="bars" style="color:#DDDDDD; height:3em; width: 1.5em;" />
+        </div>
       </div>
+
       <div
         class="lg:flex flex-grow items-center bg-white lg:bg-transparent lg:shadow-none"
         v-bind:class="{'hidden': !showMenu, 'block': showMenu}"

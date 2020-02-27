@@ -16,6 +16,7 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 import { faAward } from '@fortawesome/free-solid-svg-icons'
 import { faClock } from '@fortawesome/free-solid-svg-icons'
 import { faUserFriends } from '@fortawesome/free-solid-svg-icons'
+import { faBars } from '@fortawesome/free-solid-svg-icons'
 
 
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
@@ -24,6 +25,7 @@ library.add(faCoffee)
 library.add(faAward)
 library.add(faClock)
 library.add(faUserFriends)
+library.add(faBars)
 
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)

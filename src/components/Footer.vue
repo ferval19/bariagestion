@@ -23,9 +23,6 @@
           <h5
             class="text-lg mt-0 mb-2 text-gray-700"
           >Desde BariaGestion te damos las herramientas necesarias para estar al día con los trámites de la administración.</h5>
-          <div class="mt-6">
-            <font-awesome-icon icon="facebook-f" style="color:#DDDDDD; height:3em; width: 3em;" />
-          </div>
         </div>
         <div class="w-full lg:w-6/12 px-4">
           <div class="flex flex-wrap items-top mb-6">
