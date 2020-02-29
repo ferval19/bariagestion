@@ -19,7 +19,16 @@
           />
         </a>
         <div class="lg:hidden" @click="toggleNavbar">
-          <font-awesome-icon icon="bars" style="color:#DDDDDD; height:3em; width: 1.5em;" />
+          <font-awesome-icon
+            v-if="!showMenu"
+            icon="bars"
+            style="color:#DDDDDD; height:3em; width: 1.5em;"
+          />
+          <font-awesome-icon
+            v-if="showMenu"
+            icon="times"
+            style="color:#DDDDDD; height:3em; width: 1.5em;"
+          />
         </div>
       </div>
 

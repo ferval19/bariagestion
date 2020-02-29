@@ -12,8 +12,10 @@
     </div>
     <div class="container mx-auto flex flex-wrap items-center mt-16">
       <div class="md:w-3/12 px-4 mr-auto ml-auto">
-        <div
+        <a
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-500"
+          href="https://www.agenciatributaria.es"
+          target="_blank"
         >
           <img
             alt="..."
@@ -32,11 +34,13 @@
             </svg>
             <h4 class="text-xl font-bold text-white">Agencia Tributaria</h4>
           </blockquote>
-        </div>
+        </a>
       </div>
       <div class="md:w-3/12 px-4 mr-auto ml-auto">
-        <div
+        <a
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-red-600"
+          href="http://www.seg-social.es/wps/portal/wss/internet/Inicio"
+          target="_blank"
         >
           <img
             alt="..."
@@ -55,11 +59,13 @@
             </svg>
             <h4 class="text-xl font-bold text-white">Seguridad Social</h4>
           </blockquote>
-        </div>
+        </a>
       </div>
       <div class="md:w-3/12 px-4 mr-auto ml-auto">
-        <div
+        <a
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-800"
+          href="https://www.boe.es/"
+          target="_blank"
         >
           <img
             alt="..."
@@ -78,11 +84,13 @@
             </svg>
             <h4 class="text-xl font-bold text-white">Boletin Oficial del Estado</h4>
           </blockquote>
-        </div>
+        </a>
       </div>
       <div class="md:w-3/12 px-4 mr-auto ml-auto">
-        <div
+        <a
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-green-800"
+          href="https://www.juntadeandalucia.es/eboja.html"
+          target="_blank"
         >
           <img
             alt="..."
@@ -101,7 +109,7 @@
             </svg>
             <h4 class="text-xl font-bold text-white">Boletin Oficial Junta de Andalucía</h4>
           </blockquote>
-        </div>
+        </a>
       </div>
     </div>
   </section>
