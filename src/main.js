@@ -9,6 +9,7 @@ new Vue({
 }).$mount('#app')*/
 import Vue from 'vue'
 import Home from './views/Home.vue'
+import Politica from './views/Politica.vue'
 import '@/assets/css/tailwind.css'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -37,7 +38,8 @@ Vue.component('font-awesome-icon', FontAwesomeIcon)
 Vue.config.productionTip = false
 
 const routes = {
-  '/home': Home
+  '/': Home,
+  '/politica': Politica
 }
 
 new Vue({
