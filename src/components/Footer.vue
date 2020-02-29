@@ -23,6 +23,28 @@
           <h5
             class="text-lg mt-0 mb-2 text-gray-700"
           >Desde BariaGestion te damos las herramientas necesarias para estar al día con los trámites de la administración.</h5>
+          <a
+            class="pl-2 text-gray-800 px-3 py-4"
+            href="https://www.facebook.com/bariagestion/"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              focusable="false"
+              data-prefix="fab"
+              data-icon="facebook-f"
+              class="svg-inline--fa fa-facebook-f fa-w-10"
+              role="img"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 320 512"
+            >
+              <path
+                fill="#4267b2"
+                d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+              />
+            </svg>
+            <span class="inline-block ml-2">facebook</span>
+          </a>
         </div>
         <div class="w-full lg:w-6/12 px-4">
           <div class="flex flex-wrap items-top mb-6">
