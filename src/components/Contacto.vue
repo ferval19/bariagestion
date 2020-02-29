@@ -8,6 +8,15 @@
           >
             <div class="flex-auto p-5 lg:p-10">
               <h4 class="text-2xl font-semibold">¿Quieres consultarnos algo?</h4>
+              <div class="flex justify-center lg:hidden my-4">
+                <a
+                  class="bg-yellow-600 text-white text-xl active:bg-gray-100 text-xs font-bold uppercase px-8 py-4 rounded shadow hover:shadow-md outline-none focus:outline-none"
+                  type="button"
+                  style="transition: all 0.15s ease 0s;"
+                  href="tel:+34678414477"
+                >Llámame</a>
+              </div>
+
               <p
                 class="leading-relaxed mt-1 mb-4 text-gray-600"
               >Completa el formulario, intentaremos ponernos en contacto contigo lo antes posible.</p>
@@ -19,7 +28,7 @@
                 <input
                   type="text"
                   class="px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:shadow-outline w-full"
-                  placeholder="Full Name"
+                  placeholder="Nombre completo"
                   style="transition: all 0.15s ease 0s;"
                 />
               </div>

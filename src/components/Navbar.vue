@@ -71,11 +71,12 @@
           </li>
 
           <li class="flex items-center">
-            <button
-              class="bg-white text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
+            <a
+              class="bg-red-900 text-white active:bg-gray-100 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
               type="button"
               style="transition: all 0.15s ease 0s;"
-            >Ponte en Contacto</button>
+              href="#contacto"
+            >Ponte en Contacto</a>
           </li>
           <li class="flex items-center">
             <a
