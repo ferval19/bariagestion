@@ -83,6 +83,7 @@
               class="pl-2 text-gray-800 px-3 py-4"
               href="https://www.facebook.com/bariagestion/"
               target="_blank"
+              rel="noopener"
             >
               <svg
                 aria-hidden="true"
