@@ -16,6 +16,7 @@
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-500"
           href="https://www.agenciatributaria.es"
           target="_blank"
+          rel="noopener"
         >
           <img
             alt="..."
@@ -41,6 +42,7 @@
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-red-600"
           href="http://www.seg-social.es/wps/portal/wss/internet/Inicio"
           target="_blank"
+          rel="noopener"
         >
           <img
             alt="..."
@@ -66,6 +68,7 @@
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-blue-800"
           href="https://www.boe.es/"
           target="_blank"
+          rel="noopener"
         >
           <img
             alt="..."
@@ -91,6 +94,7 @@
           class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-green-800"
           href="https://www.juntadeandalucia.es/eboja.html"
           target="_blank"
+          rel="noopener"
         >
           <img
             alt="..."
